@@ -4,7 +4,7 @@
 #include <string.h>
 #include <iostream>
 using namespace std;
-//Daniel Hay - ID : 209042720
+
 
 class Person
 {
